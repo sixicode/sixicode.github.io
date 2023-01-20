@@ -22,7 +22,6 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 # Features
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
-markdown: kramdown
 katex: true                                             # Enable if using math markup
 mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
