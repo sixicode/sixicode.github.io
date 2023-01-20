@@ -37,6 +37,12 @@ thyroid cartilage : 방패연골<br>
 
 resonators : 공명기
 
+intra- : 안의 내부의
+
+lumped circuit : 회로나 시스템전체가 하나의 point로 간주될 정도로 아주 작은 집합체로 되어있어 신호의 traveling time(전파시간)을 고려할 필요가 없는 것
+
+lateral : 수평
+
 </details>
 
 ## Abstract
@@ -60,16 +66,18 @@ asymmetric vocal-cord model은 쉰 목소리를 simulate하기 위한 dynamic vo
 
 two-mass model (Ishizaka and Matsudaira, 1968)에서, vocal cord는 스프링으로 연결된 2개의 mechanical resonators로 이루어져 있으며, 서로 대칭적이라 가정했다.
 
-<img src="">
+<img rc="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/fig1.PNG">
 
-This is a functionally equivalent representation of the vocal cords on which the intraglottal air
-pressure acts. This model does not necessarily imply
-such a distinct inner structure of the cords, corresponding one-to-one to the spring-coupled resonators.
-Specifically, this coupled lumped-constant representation in the thickness (vertical) direction is a first-order
-approximation of the distributed system of the vocal
-cords, which vibrate with a vertical phase difference.
-The glottis is approximated by thin rectangular crosssections and the masses are permitted lateral motion
-only. z
+그리고 이는 vocal cord에 있어 intraglottal air pressure의 영향과 동일했다. 물론 이 model이 cord의 내부 구조와 동일하다는 뜻은 아니다.
+특히, 이 coupled lumped-constant representation in the thickness (vertical) direction은 vocal cord의 (수직방향의 phase difference와 함께 진동하는) distributed system의 1차 근사이다.
+glottis는 교차지점의 얇은 사각형으로 근사되었으며, masses( $m_{11}, m_{12}, m_{21}, m_{22}$ )는 좌우로만 운동할 수 있다.
+
+direct extension을 위해서 both vocal cords는 그대로 same level에 두고 위쪽 mass와 아래쪽 mass가 opposing counterparts와'만' 충돌하도록 한다.
+
+여기서의 충돌의 modeling은 asymmetrical model의 formulating에서 중요하다.
+collision에서의 contact time을 구현하기 위해, 각 mass에 추가적인 nonlinear spring을 
+
+z
 For direct extension to the asymmetric cord model,
 we restrict the asymmetric configuration of the pathological vocal cords such that both vocal cords are still
 on the same level, and the upper and lower masses---
