@@ -14,25 +14,26 @@ DOI: 10.1121/1.381221
 영알못이라 모르는 단어가 좀 많음;;
 
 <details>
-vocal cord : 성대
 
-bilateral : 두 면을 가지거나 양면에 관한. 두 개의 측면을 갖는
+vocal cord : 성대<br>
 
-pathological : 병리학적인
+bilateral : 두 면을 가지거나 양면에 관한. 두 개의 측면을 갖는<br>
 
-larynges(larynx의 복수형) : 후두
+pathological : 병리학적인<br>
 
-glottal closure : closure of glottis(=middle part of the larynx)인듯
+larynges(larynx의 복수형) : 후두<br>
 
-dicrotic : Denoting a pulse in which a double beat is detectable for each beat of the heart
-- -crotic : having a heartbeat or pulse
+glottal closure : closure of glottis(=middle part of the larynx)인듯<br>
 
-hoarse : 쉰
+dicrotic : Denoting a pulse in which a double beat is detectable for each beat of the heart<br>
+- -crotic : having a heartbeat or pulse<br>
 
-devise : 고안
+hoarse : 쉰<br>
 
-thyroid cartilage : 방패연골
-> <details><summary>방패연골 사진</summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Larynx_external_en.svg/375px-Larynx_external_en.svg.png"></details>
+devise : 고안<br>
+
+thyroid cartilage : 방패연골<br>
+> <details><summary>방패연골 사진</summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Larynx_external_en.svg/375px-Larynx_external_en.svg.png"></details><br>
 
 </details>
 
