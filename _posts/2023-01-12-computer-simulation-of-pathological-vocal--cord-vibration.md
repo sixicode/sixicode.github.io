@@ -17,7 +17,7 @@ tags: [paper, simulation, physics, reh, incomplete]
 
 영알못이라 모르는 단어가 좀 많음;;
 
-<details>
+<!-- <details>
 
 vocal cord : 성대<br>
 
@@ -55,7 +55,7 @@ excitation : 자극
 
 aspiration : 호흡
 
-</details>
+</details> -->
 
 ## Abstract
 
@@ -87,7 +87,7 @@ asymmetric vocal-cord model은 쉰 목소리를 simulate하기 위한 dynamic vo
 
 two-mass model (Ishizaka and Matsudaira, 1968)에서, vocal cord는 스프링으로 연결된 2개의 mechanical resonators로 이루어져 있으며, 서로 대칭적이라 가정했다.
 
-<center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/fig1.PNG"></center>
+<!-- <center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/fig1.PNG"></center> -->
 
 그리고 이는 vocal cord에 있어 intraglottal air pressure의 영향과 동일했다. 물론 이 model이 cord의 내부 구조와 동일하다는 뜻은 아니다.
 
@@ -95,9 +95,7 @@ two-mass model (Ishizaka and Matsudaira, 1968)에서, vocal cord는 스프링으
 
 glottis는 교차지점의 얇은 사각형으로 근사되었으며, masses( $m_{11},m_{12},m_{21},m_{22}$ )는 좌우로만 운동할 수 있다.
 
-$m_{11},m_{12},m_{21},m_{22}$
-
-<center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/Fig2.PNG"></center>
+<!-- <center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/Fig2.PNG"></center> -->
 
 direct extension을 위해서 both vocal cords는 그대로 same level에 두고 위쪽 mass와 아래쪽 mass가 opposing counterparts와'만' 충돌하도록 한다.
 
