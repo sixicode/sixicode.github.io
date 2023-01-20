@@ -95,6 +95,8 @@ two-mass model (Ishizaka and Matsudaira, 1968)에서, vocal cord는 스프링으
 
 glottis는 교차지점의 얇은 사각형으로 근사되었으며, masses( $m_{11},m_{12},m_{21},m_{22}$ )는 좌우로만 운동할 수 있다.
 
+$m_{11},m_{12},m_{21},m_{22}$
+
 <center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/Fig2.PNG"></center>
 
 direct extension을 위해서 both vocal cords는 그대로 same level에 두고 위쪽 mass와 아래쪽 mass가 opposing counterparts와'만' 충돌하도록 한다.
