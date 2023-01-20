@@ -119,7 +119,7 @@ collsion determination을 contact force의 계산없이 mass의 position만으�
 
 Fig2(a)
 
-> $ \dot{x} $ 은 $ m_{ij} $ 의 속도
+> $\dot{x}$ 은 $m_{ij}$ 의 속도
 
 > 스위치 $ Sw_i $ 는 $ m_{i1}, m_{i2} $ 가 충돌할 때 열린다
 
