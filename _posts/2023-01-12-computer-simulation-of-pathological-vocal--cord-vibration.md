@@ -93,7 +93,7 @@ two-mass model (Ishizaka and Matsudaira, 1968)에서, vocal cord는 스프링으
 
 특히, 이 coupled lumped-constant representation in the thickness (vertical) direction은 vocal cord의 (수직방향의 phase difference와 함께 진동하는) distributed system의 1차 근사이다.
 
-glottis는 교차지점의 얇은 사각형으로 근사되었으며, masses( $m_{11}, m_{12}, m_{21}, m_{22}$ )는 좌우로만 운동할 수 있다.
+glottis는 교차지점의 얇은 사각형으로 근사되었으며, masses( $m_{11},m_{12},m_{21},m_{22}$ )는 좌우로만 운동할 수 있다.
 
 <center><img src="https://sixicode.github.io/assets/img/posts/2023-01-12-computer-simulation-of-pathological-vocal--cord-vibration/Fig2.PNG"></center>
 
