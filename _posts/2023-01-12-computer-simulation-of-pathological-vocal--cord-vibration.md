@@ -5,15 +5,6 @@ author: sixicode
 tags: [paper, simulation, physics, reh, incomplete]
 ---
 
-<script src="https://utteranc.es/client.js"
-        repo="sixicode/sixicode.github.io"
-        issue-term="pathname"
-        label="utterances"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
@@ -156,3 +147,13 @@ $ \uparrow $ 여기 해석 이상할지도
 Ishizaka (1976), the glottal noise source of which not only generates normal aspiration noise but also provides a noise component for breathy hoarse voices in pathological voice production.
 
 ## II. BEHAVIOR OF THE ASYMMETRIC CORD MODEL
+
+
+<script src="https://utteranc.es/client.js"
+        repo="sixicode/sixicode.github.io"
+        issue-term="pathname"
+        label="utterances"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
