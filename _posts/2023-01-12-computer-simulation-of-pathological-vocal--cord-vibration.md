@@ -3,6 +3,7 @@ layout: post
 title: Computer simulation of pathological vocal-cord vibration
 author: sixicode
 tags: [paper, simulation, physics, reh, incomplete]
+published: false
 ---
 
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
